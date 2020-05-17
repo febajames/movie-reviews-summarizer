@@ -1,6 +1,6 @@
 # Scripts
 
-**Webscraping.py**: scrape movie titles and genres for movies from IMDB
+**webscraping.py**: scrape movie titles and genres for movies from IMDB
 
 **correctTitlesSaveTrain.py**: rename problematic movie names. Rename all documents based on movie name and sentiment. Save to a folder
 
