@@ -1,6 +1,6 @@
 # Scripts
 
-**Webscraping.py**: ccrape movie titles and genres for movies from IMDB
+**Webscraping.py**: scrape movie titles and genres for movies from IMDB
 
 **correctTitlesSaveTrain.py**: rename problematic movie names. Rename all documents based on movie name and sentiment. Save to a folder
 
@@ -10,6 +10,6 @@
 
 **Project_30reviewsCom_Mallet.ipynb**: complete project code using Mallet LDA model. Generate the summaries for each movie using the dominant topic. Use only the Cue method of Edmundson Summarizer for generating the summaries
 
-**Edmundson Summarizer Source Code.ipynb**: open source code - edmundson summarizer from sumy package for extractive summarization (Edmundson, 1969). Utilized it's cue method which uses bonus words (we passed the top 10 topic words from each topic of lda) to score sentences and produce the summaries for the movies.
+**Edmundson Summarizer Source Code.ipynb**: open source code - edmundson summarizer from sumy package for extractive summarization (Edmundson, 1969). Utilized it's cue method which uses bonus words (we passed the top 10 topic words from each topic of lda) to score sentences and produce the summaries for the movies
 
 **sumEvalEmmaNew.py**: summary evaluation script for Emma (1996)
