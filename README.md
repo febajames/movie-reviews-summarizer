@@ -1,6 +1,6 @@
 # Scripts
 
-**Edmundson Summarizer Source Code.ipynb**: open source code - edmundson summarizer from Sumy package for extractive summarization (Edmundson, 1969). Utilized it's cue method which uses bonus words (we passed the top 10 topic words from each topic of lda) to score sentences and produce the summary for the movie.
+**Edmundson Summarizer Source Code.ipynb**: open source code - edmundson summarizer from sumy package for extractive summarization (Edmundson, 1969). Utilized it's cue method which uses bonus words (we passed the top 10 topic words from each topic of lda) to score sentences and produce the summary for the movie.
 
 **Webscraping.py**: ccrape movie titles and genres for movies from IMDB
 
