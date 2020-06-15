@@ -1,4 +1,4 @@
-# Scripts
+movie-reviews-summarizer
 
 **webscraping.py**: scrape movie titles and genres for movies from IMDB
 
