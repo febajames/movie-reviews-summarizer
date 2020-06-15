@@ -1,4 +1,8 @@
-movie-reviews-summarizer
+# movie-reviews-summarizer
+
+Data Source: Kaggle<br/>
+IMDB movie reviews dataset consisting of equally distributed positive and negative reviews. Positive reviews are reviews with a user graded score of between 7-10 while negative reviews have a user graded score of 0-4; there are no neutral reviews in the dataset.<br/>
+Applied aspect-based text summarization on movie reviews, and transforming them into an easy-to-read and structured information deck through the use of Python dash. The two major NLP techniques used to achieve the objective are (i) topic modelling and (ii) multi-document extractive summarization. The main attributes of each movie have been identified through the topic words. These topic words have then been fed into the summarizer as inputs for sentence extractions which are then used to produce summaries. 
 
 **webscraping.py**: scrape movie titles and genres for movies from IMDB
 
